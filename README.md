@@ -29,6 +29,6 @@ Reboot PC now ,or logout then login into the account
 
 Note : After Method 2 , PC will auto reboot
 
-Change the Theme and Icon in GNOME-TWEAKS (as shown in picture)
+Change the Theme and Icon in GNOME-TWEAKS (as shown in picture) after following METHOD 1 or METHOD 2
 
 ![image](https://user-images.githubusercontent.com/67573209/188069295-2663d03b-54d0-4ff9-9bb4-3215c8a4e35e.png)
