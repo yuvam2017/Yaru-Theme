@@ -17,15 +17,15 @@ Install Yaru Themes
   
     sudo apt install yaru-theme-gtk yaru-theme-sound yaru-theme-gnome-shell yaru-theme-icon yaru-theme-unity
   
+Reboot PC now ,or logout then login into the account
+      
+    reboot 
+ 
 ## Method 2
 
     git clone https://github.com/yuvam2017/Yaru-Theme.git
     cd Yaru-Theme
     bash yaru.sh
-
-NOTE : Reboot PC now ,or logout then login into the account
-      
-    reboot
 
 Change the Theme and Icon in GNOME-TWEAKS (as shown in picture)
 
